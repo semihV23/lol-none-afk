@@ -1,5 +1,5 @@
 # lol-none-afk
-League of Legends none AFK script. (No BAN)
+League of Legends none AFK script. (No BAN) <br>
 Download: https://github.com/semihV23/lol-none-afk/releases/tag/0.0.1
 
 <h3>Requirements</h3>
