@@ -2,6 +2,8 @@
 League of Legends none AFK script. (No BAN) <br>
 Download: https://github.com/semihV23/lol-none-afk/releases/tag/0.0.1
 
+Note: Hold "q" 5 seconds for quit.
+
 <h3>Requirements</h3>
 - Python 3.x https://www.python.org/downloads/ <br>
 - Modules:<br>
