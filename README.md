@@ -8,5 +8,5 @@ League of Legends none AFK script. (No BAN)
 
 ```
 pip install keyboard
-pip input pynput
+pip install pynput
 ```
